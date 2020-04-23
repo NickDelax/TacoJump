@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{382CF2ED-DD28-73FD-2A6C-768FA4F97FF3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level003.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ControlesSimples.cs" Line="93" Column="6" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/FinalNivel.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/Level002.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Level001.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Level003.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
